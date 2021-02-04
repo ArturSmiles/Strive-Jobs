@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: #282c34;
+}
+
+img{
+  max-width: 300px;
+  max-height:50px
+}
+
+.table td, .table th{
+  width: 200px;
+}
